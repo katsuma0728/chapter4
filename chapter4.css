@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box
+}
+
+.main-visual {
+  width: 100%;
+  height: 500px;
+  background-color: #FF9900;
+}
+.header {
+  width: 100%;
+  height: 50px;
+  background-color: #FF0000;
+}
+
+.main {
+  width: 960px;
+  display: flex;
+  justfy-content: center;
+  margin: 0 auto;
+}
+
+.sidebar-left {
+  width: 230px;
+  height: 1400px;
+  background-color: #00FF00;
+}
+
+.blog {
+  width: 500px;
+  height: 1400px;
+  background-color: #008000;
+}
+
+.sidebar-right {
+  width: 230px;
+  height: 1400px;
+  background-color: #00FF00;
+}
+
+.footer {
+  width: 100%;
+  height: 100px;
+  background-color: #0000FF;
+}
